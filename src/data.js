@@ -1,17 +1,20 @@
 const movies = [
   {
     title: "Doctor Strange",
+    id: 1,
     time: 115,
     genres: ["Action", "Adventure", "Fantasy"],
   },
   {
     title: "Trolls",
     time: 92,
+    id: 2,
     genres: ["Animation", "Adventure", "Comedy", "Family", "Fantasy"],
   },
   {
     title: "Jack Reacher: Never Go Back",
     time: 118,
+    id: 3,
     genres: ["Action", "Adventure", "Crime", "Mystery", "Thriller"],
   },
 ];
